@@ -3,8 +3,10 @@ If you and your friend have a minecraft server, this mod is a simple backdoor th
 
 # Usage
 
-/run "command"
+/fop to open
 
- # Examples
+ # Screenshots
 
-/run "give Steve bedrock 64"
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/7e482f2f-b9a0-4c09-8103-a03b63383ceb" />
+
+
